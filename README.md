@@ -1,3 +1,3 @@
 # CV
 
-Example of Curriculum Vitae en html CSS only
+Example of Curriculum Vitae en html CSS only media
