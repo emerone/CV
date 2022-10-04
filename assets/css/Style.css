@@ -149,7 +149,7 @@
             border-radius: 100vmax;
             opacity: 1 !important;
             box-shadow: #fffa 0 0 .5rem;
-            background-image: url(./img/man-smiling.svg);
+            background-image: url(./man-smiling.svg);
             background-position: center  center;
             background-size: contain;
           }
